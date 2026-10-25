@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.log
+.env
+.env.local
+auth_info*/
+session*/
+*.session
+.DS_Store
+coverage/
+.vscode/
+.idea/
+*.tgz
+.yarn/
+.pnp.*
