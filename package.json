@@ -1,7 +1,7 @@
 {
   "name": "@zaxius/baileys",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A WebSockets library for interacting with WhatsApp Web \u2014 zaxius fork of Baileys",
   "keywords": [
     "zaxius",
